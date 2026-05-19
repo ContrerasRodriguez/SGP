@@ -1,2 +1,2 @@
 # SGP
-Plataforma web para getsionar la guardería.
+Plataforma web para gestionar la guardería.
